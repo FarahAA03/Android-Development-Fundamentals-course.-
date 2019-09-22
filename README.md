@@ -1,7 +1,7 @@
 # Android-Development-Fundamentals-course.-
 
 Link Video
-/n 1.1 Hello World : 
+1.1 Hello World : 
 1.2 Part A Your First Interactive UI : 
 1.2 Part B
 1.3
