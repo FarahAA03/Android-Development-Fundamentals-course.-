@@ -1,4 +1,4 @@
-# Android-Development-Fundamentals-course.-
+# Android Development Fundamentals course
 
 Link Video
 1.1 Hello World : 
