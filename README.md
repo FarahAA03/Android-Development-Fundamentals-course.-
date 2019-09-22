@@ -2,7 +2,7 @@
 
 # Link Video
 - 1.1 Hello World : 
-- 1.2 Part A Your First Interactive UI : 
+- 1.2 Part A Your First Interactive UI : https://youtu.be/5kxIixdUb2w
 - 1.2 Part B
 - 1.3
 - 1.4
